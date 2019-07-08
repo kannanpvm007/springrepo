@@ -1,0 +1,14 @@
+com\kgisl\springxml\model\Login.class
+com\kgisl\springxml\model\Contact.class
+com\kgisl\springxml\dao\UserDaoImpl.class
+com\kgisl\springxml\service\UserServiceImpl.class
+com\kgisl\springxml\controller\RegistrationController.class
+com\kgisl\springxml\dao\UserMapper.class
+com\kgisl\springxml\controller\LoginController.class
+com\kgisl\springxml\dao\ContactDAOImpl.class
+com\kgisl\springxml\dao\ContactDAOImpl$1.class
+com\kgisl\springxml\model\User.class
+com\kgisl\springxml\dao\ContactDAO.class
+com\kgisl\springxml\dao\UserDao.class
+com\kgisl\springxml\controller\ContactController.class
+com\kgisl\springxml\service\UserService.class
